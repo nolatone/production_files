@@ -23,13 +23,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
-     inkscape:zoom="0.64"
-     inkscape:cx="956.25"
-     inkscape:cy="-124.21875"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="1187.7184"
+     inkscape:cy="1708.6572"
      inkscape:window-width="1426"
      inkscape:window-height="852"
-     inkscape:window-x="281"
-     inkscape:window-y="129"
+     inkscape:window-x="234"
+     inkscape:window-y="223"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -199,13 +199,13 @@
        id="path200" />
     <path
        id="rect200"
-       style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:#000600;stroke-width:0.311384;-inkscape-stroke:hairline"
-       d="m 421.08344,453.68144 32.79357,-0.0585 -3.76677,21.33593 -25.26413,7e-5 z"
+       style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:#000600;stroke-width:0.29423;-inkscape-stroke:hairline"
+       d="m 421.08344,453.67517 32.79357,-0.0522 -3.76677,19.04994 -25.26413,6e-5 z"
        sodipodi:nodetypes="ccccc" />
     <path
        id="rect200-4"
-       style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:#000600;stroke-width:0.30388;-inkscape-stroke:hairline"
-       d="m 765.57652,453.67868 32.79357,-0.0557 -3.76677,20.31994 -25.26413,6e-5 z"
+       style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:#000600;stroke-width:0.294231;-inkscape-stroke:hairline"
+       d="m 765.57652,453.6752 32.79357,-0.0522 -3.76677,19.04994 -25.26413,6e-5 z"
        sodipodi:nodetypes="ccccc" />
     <text
        xml:space="preserve"
@@ -340,6 +340,11 @@
        style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:#020000;stroke-width:0.226025;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline" />
     <polyline
        points="180.176,386.447 177.074,386.447 "
+       id="polyline16-08-6-4-7-3-1-0"
+       transform="matrix(1.1545455,0,0,1.1868608,175.6271,-54.466425)"
+       style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:#020000;stroke-width:0.226025;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline" />
+    <polyline
+       points="180.176,386.447 177.074,386.447 "
        id="polyline16-08-6-4-7-3-9"
        transform="matrix(0,1.1545455,1.1868608,0,-21.178571,249.20871)"
        style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:#020000;stroke-width:0.226025;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline" />
@@ -396,5 +401,120 @@
        style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.230884;-inkscape-stroke:hairline"
        d="m 875.6413,257.25215 c 4.7298,0.0484 9.2052,-0.2082 13.8129,-1.16565 v -54.86472 l -13.8129,-1.27695 v 57.30732"
        sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.49583px;line-height:0.95;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold';writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:none;stroke:#040200;stroke-width:0.401561;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;-inkscape-stroke:hairline"
+       x="349.59155"
+       y="193.00174"
+       id="text3-6-5"
+       transform="scale(0.70201056,1.42448)"><tspan
+         sodipodi:role="line"
+         id="tspan3-9-0"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold';stroke-width:0.401561"
+         x="349.59155"
+         y="193.00174">Titan X offset: 2.5543&quot; (2.555&quot; measured here) </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.49583px;line-height:0.95;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold';writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:none;stroke:#040200;stroke-width:0.401561;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;-inkscape-stroke:hairline"
+       x="731.29865"
+       y="175.179"
+       id="text3-6-5-5"
+       transform="scale(0.70201056,1.42448)"><tspan
+         sodipodi:role="line"
+         id="tspan3-9-0-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold';stroke-width:0.401561"
+         x="731.29865"
+         y="175.179">Titan X offset: 2.5543&quot; (2.555&quot; measured here) </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.49583px;line-height:0.95;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold';writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:none;stroke:#040200;stroke-width:0.401561;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;-inkscape-stroke:hairline"
+       x="1234.3661"
+       y="284.37698"
+       id="text3-6-5-5-3"
+       transform="scale(0.70201056,1.42448)"><tspan
+         sodipodi:role="line"
+         id="tspan3-9-0-7-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold';stroke-width:0.401561"
+         x="1234.3661"
+         y="284.37698">Titan X offset: 2.5543&quot; (2.555&quot; measured here) </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.0241px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;display:inline;fill:#000000;fill-opacity:1;stroke:#f60000;stroke-width:0.32612;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="772.34723"
+       y="338.93909"
+       id="text29-0"
+       transform="scale(0.89909704,1.112227)"><tspan
+         sodipodi:role="line"
+         id="tspan29-6"
+         x="772.34723"
+         y="338.93909"
+         style="stroke-width:0.32612">Top/Outside view</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.0241px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;display:inline;fill:#000000;fill-opacity:1;stroke:#f60000;stroke-width:0.32612;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="797.62207"
+       y="379.91678"
+       id="text29"
+       transform="scale(0.89909704,1.112227)"><tspan
+         sodipodi:role="line"
+         id="tspan29"
+         x="797.62207"
+         y="379.91678"
+         style="stroke-width:0.32612">Back Panel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.0241px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;display:inline;fill:#000000;fill-opacity:1;stroke:#f60000;stroke-width:0.32612;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="748.88867"
+       y="229.55629"
+       id="text29-79"
+       transform="scale(0.89909704,1.112227)"><tspan
+         sodipodi:role="line"
+         id="tspan29-7"
+         x="748.88867"
+         y="229.55629"
+         style="stroke-width:0.32612">Control/Front Panel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.49583px;line-height:0.95;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold';writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:none;stroke:#040200;stroke-width:0.401561;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;-inkscape-stroke:hairline"
+       x="657.15601"
+       y="334.32202"
+       id="text3-6"
+       transform="scale(0.70201056,1.42448)"><tspan
+         sodipodi:role="line"
+         id="tspan3-9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold';stroke-width:0.401561"
+         x="657.15601"
+         y="334.32202">Titan X offset: .6793&quot; (.682&quot; measured here) </tspan></text>
+    <path
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#040200;stroke-width:0.591946;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:hairline"
+       d="m 381.83852,478.03415 c 0.0193,-105.53624 0.0193,-105.53624 0.0193,-105.53624"
+       id="path3" />
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#040200;stroke-width:0.195763;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:hairline"
+       id="rect3"
+       width="70.00721"
+       height="10.962051"
+       x="311.85062"
+       y="478.03415" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.49583px;line-height:0.95;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold';writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:none;stroke:#040200;stroke-width:0.401561;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;-inkscape-stroke:hairline"
+       x="471.99585"
+       y="327.30029"
+       id="text3"
+       transform="scale(0.70201056,1.42448)"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold';stroke-width:0.401561"
+         x="471.99585"
+         y="327.30029">Titan X offset: 2.756&quot; </tspan></text>
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#040200;stroke-width:0.248614;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;-inkscape-stroke:hairline"
+       id="rect4"
+       width="17.326441"
+       height="6.2967606"
+       x="-472.67294"
+       y="437.47818"
+       transform="rotate(-90)" />
   </g>
 </svg>
