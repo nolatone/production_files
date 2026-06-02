@@ -25,12 +25,12 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
      inkscape:zoom="0.45254835"
-     inkscape:cx="1705.8951"
-     inkscape:cy="1107.064"
+     inkscape:cx="2489.2368"
+     inkscape:cy="863.99608"
      inkscape:window-width="1448"
      inkscape:window-height="885"
      inkscape:window-x="92"
-     inkscape:window-y="78"
+     inkscape:window-y="50"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -732,5 +732,48 @@
              y="160.40778">Snap to center</tspan></text>
       </g>
     </g>
+    <g
+       id="g3"
+       transform="matrix(1,0,0,-1,26.939663,305.74157)">
+      <ellipse
+         cx="585.25677"
+         cy="160.032"
+         id="circle24-8-2"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+         rx="3.1734724"
+         ry="3.173357" />
+      <rect
+         style="opacity:0.741688;vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.360469;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;-inkscape-stroke:hairline"
+         id="rect1-4-4"
+         width="6.3499999"
+         height="9.4857407"
+         x="578.90833"
+         y="147.37291" />
+      <rect
+         style="opacity:0.741688;vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.306416;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;-inkscape-stroke:hairline"
+         id="rect1-1-00-9-4-0"
+         width="6.634047"
+         height="6.5607948"
+         x="588.42334"
+         y="-165.20064"
+         transform="scale(1,-1)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.0241px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;display:inline;fill:#000000;fill-opacity:1;stroke:#f60000;stroke-width:0.32612;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="641.68066"
+       y="92.182373"
+       id="text29-79-6"
+       transform="scale(0.89909704,1.112227)"><tspan
+         sodipodi:role="line"
+         id="tspan29-7-8"
+         x="641.68066"
+         y="92.182373"
+         style="stroke-width:0.32612">TODO: Check corner reflief</tspan><tspan
+         sodipodi:role="line"
+         x="641.68066"
+         y="108.46249"
+         style="stroke-width:0.32612"
+         id="tspan13">against pattern revised medium chassis with</tspan></text>
   </g>
 </svg>
