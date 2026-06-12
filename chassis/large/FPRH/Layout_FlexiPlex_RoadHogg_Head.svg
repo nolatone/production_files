@@ -23,13 +23,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
-     inkscape:zoom="5.12"
-     inkscape:cx="3826.3672"
-     inkscape:cy="1908.1055"
+     inkscape:zoom="2.549541"
+     inkscape:cx="3837.3574"
+     inkscape:cy="2246.4828"
      inkscape:window-width="1714"
      inkscape:window-height="952"
-     inkscape:window-x="34"
-     inkscape:window-y="197"
+     inkscape:window-x="-95"
+     inkscape:window-y="88"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" /><defs
      id="defs1"><clipPath
@@ -4783,10 +4783,11 @@
    id="g590"
    transform="matrix(1.6175366,0,0,1.6175366,-139.44522,-154.32235)"
    style="fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.47108671;stroke-dasharray:none">
-<polyline
-   points="694.943,469.194 695.233,467.189 695.652,464.079 694.911,458.109 696.058,456.194 698.157,454.832 704.2,452.958 711.019,450.874 714.051,449.261 715.997,447.156 716.24,444.622 715.221,441.76 711.824,435.485 710.254,429.149 709.81,423.044 704.809,411.842 702.33,405.176 701.861,401.715 702.874,399.47 709.215,398.492 712.016,398.815 713.762,401.486 "
+<path
    id="polyline589"
-   style="stroke-width:0.47108671;stroke-dasharray:none" />
+   d="m 694.943,469.194 2.47135,-1.74837 0.419,-3.11 0.92709,-5.64921 1.147,-1.915 -0.0823,-1.61863 4.37491,-2.19479 6.819,-2.084 3.032,-1.613 1.946,-2.105 0.243,-2.534 -1.019,-2.862 -3.397,-6.275 -1.57,-6.336 -0.444,-6.105 -5.001,-11.202 -2.479,-6.666 -0.469,-3.461 1.013,-2.245 6.341,-0.978 2.801,0.323 1.746,2.671"
+   sodipodi:nodetypes="cccccccccccccccccccccc"
+   style="stroke:#f130f4;stroke-opacity:1" />
 </g><g
    clip-path="url(#clipId0)"
    fill="none"
