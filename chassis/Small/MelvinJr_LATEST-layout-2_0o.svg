@@ -24,13 +24,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
-     inkscape:zoom="3.4791335"
-     inkscape:cx="2293.2434"
-     inkscape:cy="1979.5159"
+     inkscape:zoom="1.2300594"
+     inkscape:cx="2458.4178"
+     inkscape:cy="1776.3369"
      inkscape:window-width="1238"
      inkscape:window-height="859"
      inkscape:window-x="202"
-     inkscape:window-y="83"
+     inkscape:window-y="55"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -7978,24 +7978,22 @@
          points="590.203,424.222 590.776,418.639 "
          id="polyline439" />
     </g>
-    <g
-       clip-path="url(#clipId0)"
-       fill="#000000"
-       stroke="#000000"
-       stroke-width="0"
-       id="g441"
-       transform="matrix(4.4555498,0,0,4.4491393,-2313.3074,-1498.3282)">
-      <text
-         transform="matrix(0.5288,0,0,0.5288,656.638,430.828)"
-         font-family="'Times New Roman', sans-serif"
-         font-size="1.47788px"
-         id="text440">Treble Peak</text>
-      <text
-         transform="matrix(0.5288,0,0,0.5288,663.952,439.499)"
-         font-family="'Times New Roman', sans-serif"
-         font-size="1.47788px"
-         id="text441">v2b grid</text>
-    </g>
+    <text
+       transform="scale(1.0007201,0.99928037)"
+       font-family="'Times New Roman', sans-serif"
+       font-size="3.47952px"
+       id="text440"
+       style="fill:#000000;stroke:#000000;stroke-width:0"
+       x="611.93524"
+       y="418.78696">Treble Peak</text>
+    <text
+       transform="scale(1.0007201,0.99928037)"
+       font-family="'Times New Roman', sans-serif"
+       font-size="3.47952px"
+       id="text441"
+       style="fill:#000000;stroke:#000000;stroke-width:0"
+       x="644.49969"
+       y="457.39322">v1b grid</text>
     <g
        clip-path="url(#clipId0)"
        fill="none"
