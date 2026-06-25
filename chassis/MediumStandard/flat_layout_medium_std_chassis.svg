@@ -23,13 +23,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
-     inkscape:zoom="0.22558324"
-     inkscape:cx="1988.1796"
-     inkscape:cy="1336.5355"
+     inkscape:zoom="1.2433212"
+     inkscape:cx="2023.6123"
+     inkscape:cy="1005.7739"
      inkscape:window-width="1426"
      inkscape:window-height="852"
-     inkscape:window-x="22"
-     inkscape:window-y="61"
+     inkscape:window-x="261"
+     inkscape:window-y="102"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -217,12 +217,12 @@
     <path
        id="rect200"
        style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:#000600;stroke-width:0.313232;-inkscape-stroke:hairline"
-       d="m 421.08344,453.68213 32.79357,-0.0592 -3.76677,21.58993 -25.26413,7e-5 z"
+       d="m 421.08344,453.68213 32.79357,-0.0592 -1.64092,21.58929 -29.66246,7e-5 z"
        sodipodi:nodetypes="ccccc" />
     <path
        id="rect200-4"
        style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:#000600;stroke-width:0.313233;-inkscape-stroke:hairline"
-       d="m 765.57652,453.68216 32.79357,-0.0592 -3.76677,21.58993 -25.26413,7e-5 z"
+       d="m 765.57652,453.68216 32.79357,-0.0592 -1.64092,21.58929 -29.58915,7e-5 z"
        sodipodi:nodetypes="ccccc" />
     <text
        xml:space="preserve"
@@ -498,15 +498,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.49583px;line-height:0.95;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold';writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:none;stroke:#040200;stroke-width:0.401561;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;-inkscape-stroke:hairline"
-       x="657.15601"
-       y="334.32202"
+       x="939.56989"
+       y="331.62421"
        id="text3-6"
        transform="scale(0.70201056,1.42448)"><tspan
          sodipodi:role="line"
          id="tspan3-9"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold';stroke-width:0.401561"
-         x="657.15601"
-         y="334.32202">Titan X offset: .779&quot; (.778&quot; measured here) </tspan></text>
+         x="939.56989"
+         y="331.62421">Titan X offset: .779&quot; (.778&quot; measured here) </tspan></text>
     <path
        style="vector-effect:non-scaling-stroke;fill:none;stroke:#040200;stroke-width:0.580658;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:hairline"
        d="m 378.86456,478.03158 c 0.0193,-101.54975 0.0193,-101.54975 0.0193,-101.54975"
