@@ -24,12 +24,12 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
      inkscape:zoom="2.549541"
-     inkscape:cx="3837.3574"
-     inkscape:cy="2246.4828"
+     inkscape:cx="4159.18"
+     inkscape:cy="2301.3946"
      inkscape:window-width="1714"
      inkscape:window-height="952"
-     inkscape:window-x="-95"
-     inkscape:window-y="88"
+     inkscape:window-x="109"
+     inkscape:window-y="236"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" /><defs
      id="defs1"><clipPath
@@ -447,7 +447,12 @@
 <path
    d="M 0,768 H 1024 V 0 H 0 Z"
    id="path1-28" />
-</clipPath></defs><g
+</clipPath>
+
+
+
+
+</defs><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"><g
@@ -7584,35 +7589,37 @@
 <polyline
    points="639.227,481.943 639.227,487.918 637.372,494.1 "
    id="polyline1034" />
-</g><g
-   clip-path="url(#clipId0)"
-   fill="#000000"
-   stroke="#000000"
-   stroke-width="0"
-   id="g1038"
-   transform="matrix(1.6175366,0,0,1.6175366,-139.44522,-154.32235)"
-   style="fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round">
-<text
-   transform="matrix(0.0199014,1.44392,-1.44392,0.0199014,629.82,467.067)"
+</g><text
+   transform="rotate(89.210348)"
    font-family="'Times New Roman', sans-serif"
-   font-size="1.47788px"
-   id="text1035">150 or 220k (high b+)</text>
-<text
-   transform="matrix(1.35126,-0.0170359,0.0170359,1.35126,628.908,458.453)"
+   font-size="3.45205px"
+   id="text1035"
+   style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+   x="613.23682"
+   y="-870.94299">150 or 220k (high b+)</text><text
+   transform="rotate(-0.72231354)"
    font-family="'Times New Roman', sans-serif"
-   font-size="1.47788px"
-   id="text1036">EL34/6V6: 47k</text>
-<text
-   transform="matrix(1.35126,-0.0170359,0.0170359,1.35126,628.945,460.749)"
+   font-size="3.23048px"
+   id="text1036"
+   style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+   x="870.36371"
+   y="598.26184">EL34/6V6: 47k</text><text
+   transform="rotate(-0.72231354)"
    font-family="'Times New Roman', sans-serif"
-   font-size="1.47788px"
-   id="text1037">KT66/6L6: 22 or 27k</text>
-<text
-   transform="matrix(1.35126,-0.0170359,0.0170359,1.35126,628.924,463.046)"
+   font-size="3.23048px"
+   id="text1037"
+   style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+   x="870.37677"
+   y="601.9762">KT66/6L6: 22 or 27k</text><text
+   transform="rotate(-0.72231354)"
    font-family="'Times New Roman', sans-serif"
-   font-size="1.47788px"
-   id="text1038">(22k worked in high B+)</text>
-</g><g
+   font-size="3.23048px"
+   id="text1038"
+   style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+   x="870.29596"
+   y="605.69092">(22k worked in high B+)</text>
+
+<g
    clip-path="url(#clipId0)"
    fill="none"
    stroke="#ff0000"
