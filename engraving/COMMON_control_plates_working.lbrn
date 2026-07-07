@@ -173,7 +173,7 @@
         <overcut Value="0"/>
         <rampLength Value="0"/>
         <rampOuter Value="0"/>
-        <numPasses Value="4"/>
+        <numPasses Value="3"/>
         <zPerPass Value="0"/>
         <perforate Value="0"/>
         <perfLen Value="0.1"/>

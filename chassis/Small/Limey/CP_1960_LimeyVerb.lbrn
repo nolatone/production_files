@@ -105,7 +105,7 @@
         <overrideFrequency Value="0"/>
         <PPI Value="200"/>
         <enablePPI Value="0"/>
-        <doOutput Value="1"/>
+        <doOutput Value="0"/>
         <hide Value="0"/>
         <runBlower Value="1"/>
         <autoBlower Value="0"/>
@@ -164,7 +164,7 @@
         <overrideFrequency Value="0"/>
         <PPI Value="200"/>
         <enablePPI Value="0"/>
-        <doOutput Value="0"/>
+        <doOutput Value="1"/>
         <hide Value="0"/>
         <runBlower Value="1"/>
         <autoBlower Value="0"/>
