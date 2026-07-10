@@ -29,8 +29,8 @@
    inkscape:deskcolor="#d1d1d1"
    inkscape:document-units="in"
    inkscape:zoom="1"
-   inkscape:cx="1761"
-   inkscape:cy="1555"
+   inkscape:cx="1953"
+   inkscape:cy="2151"
    inkscape:window-width="1524"
    inkscape:window-height="929"
    inkscape:window-x="204"
@@ -14418,6 +14418,21 @@
 <path
    d="M 0,768 H 1024 V 0 H 0 Z"
    id="path1-851" />
+</clipPath><clipPath
+   id="clipId0-3-0-01">
+<path
+   d="M 0,768 H 1024 V 0 H 0 Z"
+   id="path1-11-42" />
+</clipPath><clipPath
+   id="clipPath1-022">
+<path
+   d="M 0,768 H 1024 V 0 H 0 Z"
+   id="path1-21" />
+</clipPath><clipPath
+   id="clipPath2-280">
+<path
+   d="M 0,768 H 1024 V 0 H 0 Z"
+   id="path2-4451" />
 </clipPath></defs>
 <g
    clip-path="url(#clipId0)"
@@ -32424,6 +32439,114 @@
    font-weight="bold"
    font-size="1.48059px"
    id="text825">.0022uf</text>
+</g></g><g
+   id="g13-8"
+   style="display:inline"
+   transform="rotate(154.14175,1569.691,1423.8248)"><g
+     clip-path="url(#clipId0-3-0-01)"
+     fill="none"
+     stroke="#000000"
+     stroke-width="0.5"
+     id="g802-62"
+     transform="matrix(3.907081,0,0,3.9081132,-462.37127,-709.36762)"
+     style="display:inline">
+<polyline
+   points="539.134,346.395 543.55,346.396 543.554,333.874 539.138,333.873 539.134,346.395 "
+   id="polyline801-9-6" />
+</g><g
+     clip-path="url(#clipId0-3-0-01)"
+     fill="none"
+     stroke="#000000"
+     stroke-width="0.1"
+     id="g825-9-8"
+     transform="matrix(3.907081,0,0,3.9081132,-462.37127,-709.36762)"
+     style="display:inline">
+<polyline
+   points="540.205,334.444 540.23,334.444 "
+   id="polyline802-4-6" />
+<polyline
+   points="541.762,334.444 541.787,334.444 "
+   id="polyline803-5-9" />
+<polyline
+   points="543.319,334.444 543.344,334.444 "
+   id="polyline804-0-4" />
+<polyline
+   points="539.438,335.978 539.463,335.978 "
+   id="polyline805-6-2" />
+<polyline
+   points="540.995,335.978 541.019,335.978 "
+   id="polyline806-9-9" />
+<polyline
+   points="542.552,335.978 542.576,335.978 "
+   id="polyline807-0-5" />
+<polyline
+   points="540.228,337.513 540.252,337.513 "
+   id="polyline808-8-8" />
+<polyline
+   points="541.784,337.513 541.809,337.513 "
+   id="polyline809-8-3" />
+<polyline
+   points="543.341,337.513 543.366,337.513 "
+   id="polyline810-2-2" />
+<polyline
+   points="539.46,339.048 539.485,339.048 "
+   id="polyline811-8-6" />
+<polyline
+   points="541.017,339.048 541.042,339.048 "
+   id="polyline812-0-9" />
+<polyline
+   points="542.574,339.048 542.598,339.048 "
+   id="polyline813-2-9" />
+<polyline
+   points="540.25,340.582 540.274,340.582 "
+   id="polyline814-0-2" />
+<polyline
+   points="541.806,340.582 541.831,340.582 "
+   id="polyline815-9-4" />
+<polyline
+   points="543.363,340.582 543.388,340.582 "
+   id="polyline816-5-0" />
+<polyline
+   points="539.482,342.117 539.507,342.117 "
+   id="polyline817-3-5" />
+<polyline
+   points="541.039,342.117 541.064,342.117 "
+   id="polyline818-5-7" />
+<polyline
+   points="542.596,342.117 542.62,342.117 "
+   id="polyline819-9-7" />
+<polyline
+   points="540.272,343.652 540.296,343.652 "
+   id="polyline820-8-6" />
+<polyline
+   points="541.829,343.652 541.853,343.652 "
+   id="polyline821-91-3" />
+<polyline
+   points="543.385,343.652 543.41,343.652 "
+   id="polyline822-6" />
+<polyline
+   points="539.504,345.187 539.529,345.187 "
+   id="polyline823-2-1" />
+<polyline
+   points="541.061,345.187 541.086,345.187 "
+   id="polyline824-9" />
+<polyline
+   points="542.618,345.187 542.643,345.187 "
+   id="polyline825-8-6" />
+</g><g
+     clip-path="url(#clipId0-3-0-01)"
+     fill="#ff0000"
+     stroke="#ff0000"
+     stroke-width="0"
+     id="g826-4-8"
+     transform="matrix(3.907081,0,0,3.9081132,-462.37127,-709.36762)"
+     style="display:inline">
+<text
+   transform="matrix(9.44929e-4,-2.22436,2.22436,9.44929e-4,542.455,345.148)"
+   font-family="'Times New Roman', sans-serif"
+   font-weight="bold"
+   font-size="1.48059px"
+   id="text825-88">.0022uf</text>
 </g></g><g
    id="g541"
    style="display:inline"
