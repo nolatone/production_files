@@ -25,12 +25,12 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
      inkscape:zoom="0.45254835"
-     inkscape:cx="2489.2368"
-     inkscape:cy="863.99608"
+     inkscape:cx="1789.864"
+     inkscape:cy="1255.1145"
      inkscape:window-width="1448"
      inkscape:window-height="885"
-     inkscape:window-x="92"
-     inkscape:window-y="50"
+     inkscape:window-x="278"
+     inkscape:window-y="208"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -342,6 +342,21 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="opacity:0.491103;vector-effect:non-scaling-stroke;fill:none;stroke:#f900ff;stroke-width:1.31602;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;-inkscape-stroke:hairline"
+       id="rect3-2"
+       width="6.3427458"
+       height="444.49704"
+       x="-167.52184"
+       y="298.86777"
+       transform="rotate(-90)" />
+    <rect
+       style="opacity:0.491103;vector-effect:non-scaling-stroke;fill:none;stroke:#f922ff;stroke-width:1.9451;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline"
+       id="rect4-0"
+       width="3.7845542"
+       height="177.51556"
+       x="811.51385"
+       y="286.1857" />
     <polyline
        points="180.176,386.447 177.074,386.447 "
        id="polyline16-08-6-4-88-7"
@@ -368,8 +383,8 @@
        transform="matrix(-0.53716443,0,0,-1.0599732,952.09891,851.64131)"
        style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.235847;stroke-dasharray:none;-inkscape-stroke:hairline" />
     <path
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:#050000;stroke-width:0.26458333;stroke-linejoin:round;stroke-dasharray:1.58750273,1.58750273;stroke-dashoffset:0;stroke-opacity:1;vector-effect:non-scaling-stroke;-inkscape-stroke:hairline"
-       d="m 490.05486,259.05323 c 0,171.35192 0,171.35192 0,171.35192"
+       style="display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:#050000;stroke-width:0.344969;stroke-linejoin:round;stroke-dasharray:2.06982, 2.06982;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:hairline"
+       d="m 489.9568,199.13463 c 0,291.28901 0,291.28901 0,291.28901"
        id="path27-90" />
     <path
        style="display:inline;fill:#000000;fill-opacity:1;stroke:#050000;stroke-width:0.26458333;stroke-linejoin:round;stroke-dasharray:1.58750004,1.58750004;stroke-dashoffset:0;stroke-opacity:1;vector-effect:non-scaling-stroke;-inkscape-stroke:hairline"
@@ -553,13 +568,13 @@
     <polyline
        points="177.074,358.373 478.673,358.373 478.673,414.522 177.074,414.522 177.074,358.373 "
        id="polyline1-0-2-9"
-       transform="matrix(1.458652,0,0,1.1309195,11.903003,21.632628)"
+       transform="matrix(1.458652,0,0,1.1309195,11.703462,21.632628)"
        style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:#050601;stroke-width:0.206002;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline" />
     <ellipse
-       cx="705.94434"
+       cx="709.64856"
        cy="259.18002"
        id="circle23-3"
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.118688"
+       style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
        rx="3.1734724"
        ry="3.173357" />
     <polyline
@@ -583,10 +598,10 @@
        transform="matrix(-0.37998894,0,0,1.9504207,257.06901,-543.71057)"
        style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.310181;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline" />
     <ellipse
-       cx="272.66537"
-       cy="430.50317"
+       cx="270.44006"
+       cy="430.35284"
        id="circle25-4"
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.118688"
+       style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
        rx="3.1734724"
        ry="3.173357" />
     <path
@@ -605,10 +620,10 @@
        d="m 706.30284,255.87953 c 4.72979,0.0454 9.36232,-1.34747 13.97,-2.24483 v -48.65005 l -13.97,-2.81601 v 53.71089"
        sodipodi:nodetypes="ccccc" />
     <ellipse
-       cx="707.69965"
-       cy="430.05792"
+       cx="709.6485"
+       cy="430.35284"
        id="circle24-8"
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.118688"
+       style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
        rx="3.1734724"
        ry="3.173357" />
     <polyline
@@ -657,10 +672,10 @@
        transform="matrix(-1.1545455,0,0,1.1868608,478.32898,-0.0885721)"
        style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:#020000;stroke-width:0.22964;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline" />
     <ellipse
-       cx="270.96927"
+       cx="270.44009"
        cy="259.18002"
        id="circle26-0"
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.118688"
+       style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
        rx="3.1734724"
        ry="3.173357" />
     <path
@@ -704,7 +719,7 @@
        id="g2">
       <path
          style="display:inline;vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:hairline"
-         d="m 269.99281,199.13463 v 3.53169 l -10.44454,1.8961 v 49.13841 l 11.93793,2.20303 c 1.52561,0.39675 2.41112,1.4888 2.65654,3.27616 -0.11065,1.86153 -1.16847,2.91931 -3.17347,3.17336 -0.82514,0.01 -1.63453,-0.32844 -2.42818,-1.01415 h -78.31137 v 166.87799 c 25.94104,-0.01 54.12207,4e-4 80.06312,0 1.6392,-1.18576 3.3057,-1.05959 4.54546,-0.0268 1.33665,1.87709 1.27335,3.23489 0.36755,4.15342 -0.70718,0.794 -0.7204,1.0198 -2.54048,1.33271 l -12.86131,2.70054 v 49.12228 l 10.38831,1.78348 v 3.14081 h 439.92799 l -0.0848,-3.30697 10.54924,-1.79539 v -49.3188 l -13.00037,-2.66783 c -1.65418,-0.17631 -2.28315,-0.97951 -2.79711,-1.67438 -0.66749,-1.33128 -0.44173,-2.45558 0.0388,-3.06822 1.75381,-2.18263 3.74282,-2.01112 5.35817,-0.25048 l 2.11487,0.0384 77.71765,0.11866 v -166.878 l -81.97932,-0.17712 c -1.23913,1.25632 -2.82316,1.19472 -4.63338,-0.36145 -1.003,-1.26836 -0.82829,-2.82138 0.22968,-4.22468 0.7445,-0.70922 1.59997,-1.0065 2.5664,-0.89181 l 14.07268,-2.33087 v -48.65005 l -10.35208,-1.89123 v -3.95881 z"
+         d="m 269.99281,199.13463 -0.0301,3.30741 -10.41441,2.12038 v 49.13841 l 11.49944,2.20303 c 1.52561,0.39675 2.41112,1.4888 2.65654,3.27616 -0.11065,1.86153 -1.16847,2.91931 -3.17347,3.17336 -0.82514,0.01 -1.63453,-0.32844 -2.42818,-1.01415 h -77.87288 v 166.87799 c 25.94104,-0.01 52.00271,4e-4 77.94376,0 1.63002,-1.49286 3.29959,-1.26383 4.54546,-0.0268 1.00297,1.69605 1.19279,2.88323 0.5695,3.56155 -0.70718,0.794 -0.92235,1.61167 -2.74243,1.92458 l -10.62673,2.68311 v 48.95056 l 10.12639,2.01338 -0.0529,3.10004 h 439.92798 v -3.23387 l 10.53222,-2.15224 v -49.13842 l -10.82026,-2.40267 c -1.72346,-0.0383 -2.29183,-0.96222 -2.79711,-1.67438 -0.66749,-1.33128 -0.44173,-2.45558 0.0388,-3.06822 1.38089,-2.01726 3.6974,-2.09928 5.10816,-0.55101 l 1.99743,0.0144 76.09613,-10e-6 V 261.33923 l -78.07486,-0.0296 c -1.2378,1.16141 -2.87577,1.62951 -4.76059,-0.0626 -1.003,-1.26836 -0.96874,-2.83041 0.0892,-4.23371 0.7445,-0.70922 1.35223,-1.12139 2.31866,-1.0067 l 10.62427,-2.37194 v -48.65005 l -10.35204,-2.07393 -4e-5,-3.77611 z"
          id="path153"
          sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccc" />
       <g
@@ -775,5 +790,64 @@
          y="108.46249"
          style="stroke-width:0.32612"
          id="tspan13">against pattern revised medium chassis with</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.49583px;line-height:0.95;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Bold';writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:none;stroke:#040200;stroke-width:0.401561;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;-inkscape-stroke:hairline;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="160.98235"
+       y="306.21112"
+       id="text3-6-5"
+       transform="scale(0.70201056,1.42448)"><tspan
+         sodipodi:role="line"
+         id="tspan1">Titan X offset: .7693&quot;  SCS (.77&quot; measured here) </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.49583px;line-height:0.95;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:none;stroke:#040200;stroke-width:0.401561;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;-inkscape-stroke:hairline"
+       x="206.88503"
+       y="286.85562"
+       id="text3-6-5-1"
+       transform="scale(0.70201056,1.42448)"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="206.88503"
+         y="286.85562">Titan X offset: 2.3586&quot;  SCS (2.34&quot; measured here) </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.49583px;line-height:0.95;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:none;stroke:#040200;stroke-width:0.401561;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;-inkscape-stroke:hairline"
+       x="391.71747"
+       y="354.23264"
+       id="text3-6-5-1-8"
+       transform="scale(0.70201056,1.42448)"><tspan
+         sodipodi:role="line"
+         id="tspan3">Titan X offset: 2.4293&quot;  SCS (2.43&quot; measured here) </tspan></text>
+    <path
+       style="opacity:0.491103;vector-effect:non-scaling-stroke;fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:hairline"
+       d="m 269.69362,358.13193 c 0,-26.70741 0,-26.70741 0,-26.70741"
+       id="path1" />
+    <path
+       style="opacity:0.491103;vector-effect:non-scaling-stroke;fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:hairline"
+       d="m 476.79921,428.71253 c 26.7074,0 26.7074,0 26.7074,0"
+       id="path1-6" />
+    <rect
+       style="opacity:0.491103;vector-effect:non-scaling-stroke;fill:none;stroke:#f900ff;stroke-width:1.31602;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;-inkscape-stroke:hairline"
+       id="rect3-2-6"
+       width="6.3427458"
+       height="444.49704"
+       x="-523.85663"
+       y="277.0603"
+       transform="rotate(-90)" />
+    <rect
+       style="opacity:0.491103;vector-effect:non-scaling-stroke;fill:none;stroke:#f922ff;stroke-width:1.68168;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline"
+       id="rect4"
+       width="2.7756777"
+       height="180.91623"
+       x="709.92078"
+       y="256.215" />
+    <rect
+       style="opacity:0.491103;vector-effect:non-scaling-stroke;fill:none;stroke:#f922ff;stroke-width:1.68168;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline"
+       id="rect4-9"
+       width="2.7756777"
+       height="180.91623"
+       x="267.2666"
+       y="252.60997" />
   </g>
 </svg>
