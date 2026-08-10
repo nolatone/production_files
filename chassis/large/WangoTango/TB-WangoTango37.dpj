@@ -1,0 +1,418 @@
+[DeskProto Project]
+Version = 7.1
+Edition = MultiAxis
+WizardType = none
+NumberOfGeometryFiles = 0
+FlipNormals = 0
+SkipBackfaces = 0
+NumberOfVectorFiles = 1
+UseVectorDataZValues = 0
+IsUseVectorDataZValuesSet = 0
+PreserveCurveDirection = 1
+NumberOfBitmapFiles = 0
+CADFileUnit = 0
+NumberOfParts = 1
+ActivePartIndex = 0
+SavedToolpaths = 0
+UseTranslationForOperationSegment = 1
+UseTranslationForPartSegment = 0
+UseTranslationForGeometrySupports = 1
+UseTranslationForCentre = 1
+UseTranslationForAmbient = 1
+UseTranslationForVectorSelection = 1
+UseTranslationForVectorSupports = 1
+UseDimensionScalingForGeometry = 0
+UseDimensionScalingForVector = 1
+UseDimensionScalingForBitmap = 0
+Machine = SainSmart Genmitsu 3018-PRO
+
+[DeskProto Project VectorFile0]
+FilePath = C:/Users/nolat/Downloads/TB_WangoTango37.dxf
+FileId = 13360200829105089092
+ScaleX = 1.000000
+ScaleY = 1.000000
+ScaleZ = 1.000000
+RotationX = 0.000000
+RotationY = 0.000000
+RotationZ = 0.000000
+TranslationX = 0.000000
+TranslationY = 0.000000
+TranslationZ = 0.000000
+MirrorX = 0
+MirrorY = 0
+MirrorZ = 0
+
+[Part0]
+Name = turret board
+UseRotationAxis = 0
+UseTiltOption = 0
+VectorScaleX = 1.000000
+VectorScaleY = 1.000000
+VectorScaleZ = 1.000000
+VectorMirrorX = 0
+VectorMirrorY = 0
+VectorMirrorZ = 0
+VectorPanX = 0.000000
+VectorPanY = 0.000000
+VectorRotationZ = 0.000000
+SegmentMethod = 1
+SegmentShape = 0
+SegmentMinimumX = 16.393351
+SegmentMinimumY = 798.150705
+SegmentMinimumZ = -3.175000
+SegmentMaximumX = 271.153364
+SegmentMaximumY = 873.283675
+SegmentMaximumZ = 0.000000
+AmbientlevelMethod = 0
+AmbientlevelZ = -3.175000
+TranslationMethodX = 3
+TranslationMethodY = 3
+TranslationMethodZ = 1
+TranslationCustomX = -6.861902
+TranslationCustomY = -129.672489
+TranslationCustomZ = -0.000000
+SimulationResolution = 1000
+CheckSimulationForRemoved = 0
+UseSimulationDefaultToleranceForRemoved = 1
+SimulationToleranceForRemoved = 0.254760
+CheckSimulationForRest = 0
+UseSimulationDefaultToleranceForRest = 1
+SimulationToleranceForRest = 0.254760
+WindowLayout = 0
+NumberOfOperations = 3
+SupportBlockType = 0
+
+[Part0 Operation0]
+Name = mill holes
+Cutter = Flat tip, radius 1/32 = diameter 1/16 inch
+Visible = 1
+OperationType = 0
+Feedrate = 5.000000
+Spindlespeed = 10000
+UseRoughingLayers = 1
+RoughingLayerMethod = 1
+RoughingLayer = 0.508000
+UseRoughingRamping = 0
+RoughingRampingAngle = 5.000000
+AlwaysStayLow = 0
+FreeMovementHeight = 5.080000
+MachiningDepth = -3.550000
+UseProjection = 0
+ProjectionPrecision = 0.705556
+ProfileSelect = 4
+ProfileSelectedLayer = milled_holes
+ProfileStrategy = 2
+ProfileDirection = 0
+ProfileTabMethod = 0
+PocketSelect = 0
+PocketStrategy = 0
+PocketDirection = 0
+PocketReversed = 0
+PocketStepoverPercentage = 50
+ParallelPocketAngle = 0.000000
+DrillholeSelect = 0
+UsePeckDrilling = 0
+PeckDrillingDepth = 0.000000
+PeckDrillingRetractionLevel = 0.000000
+DrillholeDiameterTolerance = 0.127000
+UseAllowance = 0
+XYAllowance = 0.000000
+UseFinishingProfile = 0
+FinishingProfileDirection = 1
+PlungeRate = 100
+
+[Part0 Operation0 ProfileCustomTabSettings]
+LengthMethod = 0
+HeightMethod = 0
+DistanceMethod = 0
+LengthCutterDiaPerc = 200.000000
+HeightMatHeightPerc = 50.000000
+DistanceCutterDiaPerc = 2000.000000
+LengthFixed = 0.000000
+HeightFixed = 0.000000
+DistanceFixed = 0.000000
+UseMinimumNr = 0
+UseMaximumNr = 0
+MinimumNr = 0
+MaximumNr = 0
+
+[Part0 Operation1]
+Name = cut line FIRST
+Cutter = Flat tip, radius 1/32 = diameter 1/16 inch
+Visible = 1
+OperationType = 0
+Feedrate = 5.000000
+Spindlespeed = 10000
+UseRoughingLayers = 1
+RoughingLayerMethod = 1
+RoughingLayer = 0.508000
+UseRoughingRamping = 0
+RoughingRampingAngle = 5.000000
+AlwaysStayLow = 0
+FreeMovementHeight = 5.080000
+MachiningDepth = -3.550000
+UseProjection = 0
+ProjectionPrecision = 0.705556
+ProfileSelect = 4
+ProfileSelectedLayer = cut_line_FIRST
+ProfileStrategy = 0
+ProfileDirection = 0
+ProfileTabMethod = 0
+PocketSelect = 0
+PocketStrategy = 0
+PocketDirection = 0
+PocketReversed = 0
+PocketStepoverPercentage = 50
+ParallelPocketAngle = 0.000000
+DrillholeSelect = 0
+UsePeckDrilling = 0
+PeckDrillingDepth = 0.000000
+PeckDrillingRetractionLevel = 0.000000
+DrillholeDiameterTolerance = 0.127000
+UseAllowance = 0
+XYAllowance = 0.000000
+UseFinishingProfile = 0
+FinishingProfileDirection = 1
+PlungeRate = 100
+
+[Part0 Operation1 ProfileCustomTabSettings]
+LengthMethod = 0
+HeightMethod = 0
+DistanceMethod = 0
+LengthCutterDiaPerc = 200.000000
+HeightMatHeightPerc = 50.000000
+DistanceCutterDiaPerc = 2000.000000
+LengthFixed = 0.000000
+HeightFixed = 0.000000
+DistanceFixed = 0.000000
+UseMinimumNr = 0
+UseMaximumNr = 0
+MinimumNr = 0
+MaximumNr = 0
+
+[Part0 Operation2]
+Name = cut line LAST
+Cutter = Flat tip, radius 1/32 = diameter 1/16 inch
+Visible = 1
+OperationType = 0
+Feedrate = 5.000000
+Spindlespeed = 10000
+UseRoughingLayers = 1
+RoughingLayerMethod = 1
+RoughingLayer = 0.508000
+UseRoughingRamping = 0
+RoughingRampingAngle = 5.000000
+AlwaysStayLow = 0
+FreeMovementHeight = 5.080000
+MachiningDepth = -3.550000
+UseProjection = 0
+ProjectionPrecision = 0.705556
+ProfileSelect = 4
+ProfileSelectedLayer = cut_line_LAST
+ProfileStrategy = 0
+ProfileDirection = 0
+ProfileTabMethod = 0
+PocketSelect = 0
+PocketStrategy = 0
+PocketDirection = 0
+PocketReversed = 0
+PocketStepoverPercentage = 50
+ParallelPocketAngle = 0.000000
+DrillholeSelect = 0
+UsePeckDrilling = 0
+PeckDrillingDepth = 0.000000
+PeckDrillingRetractionLevel = 0.000000
+DrillholeDiameterTolerance = 0.127000
+UseAllowance = 0
+XYAllowance = 0.000000
+UseFinishingProfile = 0
+FinishingProfileDirection = 1
+PlungeRate = 100
+
+[Part0 Operation2 ProfileCustomTabSettings]
+LengthMethod = 0
+HeightMethod = 0
+DistanceMethod = 0
+LengthCutterDiaPerc = 200.000000
+HeightMatHeightPerc = 50.000000
+DistanceCutterDiaPerc = 2000.000000
+LengthFixed = 0.000000
+HeightFixed = 0.000000
+DistanceFixed = 0.000000
+UseMinimumNr = 0
+UseMaximumNr = 0
+MinimumNr = 0
+MaximumNr = 0
+
+[Part0 View0]
+Name = 
+ShowName = 0
+ShowOrientator = 1
+ShowWorkpieceZeroPoint = 1
+ShowCadZeroPoint = 0
+ShowGeometryWireframe = 0
+RemoveHiddenLines = 0
+ShowGeometryRendered = 1
+ShowDownwardFaces = 0
+ShowGeometryPoints = 0
+ShowVectors = 1
+ShowVectorsPoints = 0
+ShowBitmap = 1
+ShowBitmapTranslucent = 1
+ShowSegment = 1
+ShowSegmentTranslucent = 0
+ShowWorkingArea = 0
+RotationX = 8.715837
+RotationY = 14.966998
+RotationZ = -13.428210
+PanningX = -89.784264
+PanningY = -27.768706
+Zooming = 120.999996
+
+[Part0 View0 Operation0]
+ShowPoints = 0
+
+[Part0 View0 Operation1]
+ShowPoints = 0
+
+[Part0 View0 Operation2]
+ShowPoints = 0
+
+[Part0 View1]
+Name = 
+ShowName = 0
+ShowOrientator = 1
+ShowWorkpieceZeroPoint = 1
+ShowCadZeroPoint = 0
+ShowGeometryWireframe = 0
+RemoveHiddenLines = 0
+ShowGeometryRendered = 1
+ShowDownwardFaces = 0
+ShowGeometryPoints = 0
+ShowVectors = 1
+ShowVectorsPoints = 0
+ShowBitmap = 1
+ShowBitmapTranslucent = 1
+ShowSegment = 1
+ShowSegmentTranslucent = 0
+ShowWorkingArea = 0
+RotationX = -75.000000
+RotationY = 30.000000
+RotationZ = 7.600000
+PanningX = 0.000000
+PanningY = 0.000000
+Zooming = 100.000000
+
+[Part0 View1 Operation0]
+ShowPoints = 0
+
+[Part0 View1 Operation1]
+ShowPoints = 0
+
+[Part0 View1 Operation2]
+ShowPoints = 0
+
+[Part0 View2]
+Name = 
+ShowName = 0
+ShowOrientator = 1
+ShowWorkpieceZeroPoint = 1
+ShowCadZeroPoint = 0
+ShowGeometryWireframe = 0
+RemoveHiddenLines = 0
+ShowGeometryRendered = 1
+ShowDownwardFaces = 0
+ShowGeometryPoints = 0
+ShowVectors = 1
+ShowVectorsPoints = 0
+ShowBitmap = 1
+ShowBitmapTranslucent = 1
+ShowSegment = 1
+ShowSegmentTranslucent = 0
+ShowWorkingArea = 0
+RotationX = -75.000000
+RotationY = 30.000000
+RotationZ = 7.600000
+PanningX = 0.000000
+PanningY = 0.000000
+Zooming = 100.000000
+
+[Part0 View2 Operation0]
+ShowPoints = 0
+
+[Part0 View2 Operation1]
+ShowPoints = 0
+
+[Part0 View2 Operation2]
+ShowPoints = 0
+
+[Part0 View3]
+Name = 
+ShowName = 0
+ShowOrientator = 1
+ShowWorkpieceZeroPoint = 1
+ShowCadZeroPoint = 0
+ShowGeometryWireframe = 0
+RemoveHiddenLines = 0
+ShowGeometryRendered = 1
+ShowDownwardFaces = 0
+ShowGeometryPoints = 0
+ShowVectors = 1
+ShowVectorsPoints = 0
+ShowBitmap = 1
+ShowBitmapTranslucent = 1
+ShowSegment = 1
+ShowSegmentTranslucent = 0
+ShowWorkingArea = 0
+RotationX = -75.000000
+RotationY = 30.000000
+RotationZ = 7.600000
+PanningX = 0.000000
+PanningY = 0.000000
+Zooming = 100.000000
+
+[Part0 View3 Operation0]
+ShowPoints = 0
+
+[Part0 View3 Operation1]
+ShowPoints = 0
+
+[Part0 View3 Operation2]
+ShowPoints = 0
+
+[NCFiles]
+NCFileCount = 17
+NCFile0 = C:/Users/nolat/Documents/Nolatone/CNC/Sainsmart\068-hole-test#2_mill turret hole_to_outline.nc
+NCFile0Properties = Part0,Operation0,#2,0,1685208797
+NCFile1 = C:/Users/nolat/Documents/Nolatone/CNC/Sainsmart\075_hole_test_drill_mill#2_mill turret hole_to_outline.nc
+NCFile1Properties = Part0,Operation0,#2,0,1685209948
+NCFile2 = E:/Nolatone/Model_Layouts_TurboCad2021/TurretBoards/Sainsmart/DeskProto/ClubMaster/NC-Program-files/MM_clubmaster-non-reverb_UPDATED_MILL_HOLES_1_5.nc
+NCFile2Properties = Part0,Operation0,#1,0,1733341446
+NCFile3 = E:/Nolatone/Model_Layouts_TurboCad2021/TurretBoards/Sainsmart/DeskProto/ClubMaster/NC-Program-files/clubmaster-non-reverb-2_0.nc
+NCFile3Properties = Part0,Operation0,#1,0,1734110790
+NCFile4 = E:/Nolatone/Model_Layouts_TurboCad2021/TurretBoards/Sainsmart/DeskProto/MelvinJr/NC_Program_Files/fx_loop_tb.nc
+NCFile4Properties = Part0,Operation0,#1,0,1734457034
+NCFile5 = E:/Nolatone/Model_Layouts_TurboCad2021/TurretBoards/Sainsmart/DeskProto/MelvinJr/NC_Program_Files/fx_loop_tb_center_zero.nc
+NCFile5Properties = Part0,Operation0,#1,0,1734459693
+NCFile6 = C:/Nolatone/Model_Layouts_TurboCad2021/TurretBoards/Sainsmart/DeskProto/MelvinJr/NC_Program_Files/meljr_tbtemlate_2_0-a.nc
+NCFile6Properties = Part0,Operation0,#1,0,1735845500
+NCFile7 = C:/Nolatone/Model_Layouts_TurboCad2021/TurretBoards/Sainsmart/DeskProto/MelvinJr/NC_Program_Files/meljr_tbtemlate_2_0-d.nc
+NCFile7Properties = Part0,Operation0,#1,0,1736020138
+NCFile8 = E:/Nolatone/Model_Layouts_TurboCad2021/TurretBoards/Sainsmart/22Tango/22Tango_MEDIUM_TB-TEMPLATE-1_0.nc
+NCFile8Properties = Part0,Operation0,#1,0,1751992940
+NCFile9 = E:/Nolatone/Model_Layouts_TurboCad2021/TurretBoards/Sainsmart/new_bit_test.nc
+NCFile9Properties = Part0,Operation0,#1,0,1753891374
+NCFile10 = E:/Nolatone/Model_Layouts_TurboCad2021/Model-Layouts/MelvinJr/TB_template/MelJr_TB_Template-2_1i.nc
+NCFile10Properties = Part0,Operation0,#1,0,1762888622
+NCFile11 = E:/Nolatone/Model_Layouts_TurboCad2021/Model-Layouts/TurretBoards/Sainsmart/FPRH/TB-FPRH18_onboard_tubeFX-plus_relays.nc
+NCFile11Properties = Part0,Operation0,#1,0,1780077569
+NCFile12 = E:/Nolatone/Model_Layouts_TurboCad2021/Model-Layouts/TurretBoards/Sainsmart/FPRH/TB-FPRH18_TRUNCATED_onboard_tubeFX-plus_relays.nc
+NCFile12Properties = Part0,Operation0,#1,0,1780079258
+NCFile13 = E:/Nolatone/Chassis/MediumStandard/SainSmart/FPRH/TB-FPRH20_onboard_tubeFX.nc
+NCFile13Properties = Part0,Operation0,#1,0,1781814372
+NCFile14 = E:/Nolatone/Chassis/Small/SainSmart/Limey/TB_1960_LimeyVerb.nc
+NCFile14Properties = Part0,Operation0,#1,0,1782761175
+NCFile15 = E:/Nolatone/Chassis/Large/WangoTango/TB_WangoTango_PROTO.nc
+NCFile15Properties = Part0,Operation0,#1,0,1784660683
+NCFile16 = E:/Nolatone/Chassis/Large/WangoTango/TB_WangoTango37.nc
+NCFile16Properties = Part0,Operation0,#1,0,1786378836
